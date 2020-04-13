@@ -1,1 +1,1 @@
-# segmentacion-de-estructuras-óseas
+segmentacion de estructuras óseas
