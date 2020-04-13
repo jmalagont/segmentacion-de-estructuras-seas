@@ -1,1 +1,1 @@
-# segmentacion-de-estructuras-seas
+# segmentacion-de-estructuras-óseas
